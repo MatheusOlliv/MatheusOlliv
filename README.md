@@ -1,12 +1,12 @@
-Olá, eu sou o Matheus Oliveira
+## **Olá, eu sou o Matheus Oliveira**
 
-💻 Estudante de Ciência da Computação apaixonado por tecnologia, programação e desenvolvimento de jogos.
+- 💻 Estudante de Ciência da Computação apaixonado por tecnologia, programação e desenvolvimento de jogos.
 Gosto de transformar ideias em código e explorar novas ferramentas para criar soluções criativas e funcionais.
 
 
 ---
 
-🚀 Tecnologias & Ferramentas
+- 🚀 Tecnologias & Ferramentas
 
 Linguagens (em aprendizado): C++, C#, HTML, CSS, JavaScript
 
@@ -18,7 +18,7 @@ Ferramentas: Unity, Unreal Engine, Git/GitHub, Visual Studio, IntelliJ IDEA
 
 ---
 
-📌 Objetivos
+- 📌 Objetivos
 
 Criar e compartilhar projetos práticos que reforcem meu aprendizado
 
